@@ -1,4 +1,4 @@
-# Movie Box Office Prediction
+# Film Revenue Prediction
 
 This is a personal data science project to predict the U.S. or global box office revenue of upcoming or recently released films based on metadata available from The Movie Database (TMDB) API.
 
