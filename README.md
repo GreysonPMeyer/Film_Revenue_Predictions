@@ -1,7 +1,7 @@
-Film Revenue Prediction
+# Film Revenue Prediction
 This repository contains a data science project aimed at predicting the gross revenue of films using the TMDB 5000 Movie Dataset from Kaggle. The objective is to evaluate a suite of regression models and determine which performs best in forecasting a movie’s box office performance.
 
-Project Overview
+## Project Overview
 The "data" folder contains all of the relevant data
 Data cleaning & feature engineering are handled in the feature_engineering.ipynb file. The following are some of the features I created/altered in order to enhance predictive capabilities:
 * One-hot encoded the 10 most common genres
@@ -25,7 +25,7 @@ All models were tuned using cross-validation to ensure fair and robust compariso
 Evaluation: Comparing models using Root Mean Squared Error (RMSE), Mean Absolute Error (MAE) and R² score.
 Summary results and visual comparisons are included in the Jupyter notebooks.
 
-🗂️ Repository Structure
+## Repository Structure
 bash
 Copy
 Edit
@@ -38,7 +38,7 @@ Edit
 └── README.md               # Project overview
 🔍 The notebooks are organized so that running them in order (top to bottom) will reproduce the full analysis and modeling pipeline.
 
-🛠 Getting Started
+## Getting Started
 Clone this repository:
 
 bash
