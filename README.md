@@ -30,13 +30,12 @@ bash
 Copy
 Edit
 .
-├── data/                   # (Not committed) Raw and cleaned TMDB 5000 data
-├── notebooks/              # Jupyter notebooks for EDA, modeling, and evaluation
-├── models/                 # Saved model artifacts (optional)
-├── results/                # Plots, tables, and metrics
-├── requirements.txt        # Environment dependencies
-└── README.md               # Project overview
-🔍 The notebooks are organized so that running them in order (top to bottom) will reproduce the full analysis and modeling pipeline.
+.
+├── data/                      # Contains the relevant datasets
+├── feature_engineering.ipynb        # Notebook for cleaning and preparing the data
+├── model_selection.ipynb  # Notebook for training and evaluating regression models
+└── README.md                  # Project overview
+
 
 ## Getting Started
 Clone this repository:
@@ -44,15 +43,14 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/film-revenue-prediction.git
-cd film-revenue-prediction
+git clone https://github.com/GreysonPMeyer/Film_Revenue_Predictions.git
+cd film_revenue_prediction
 Install required packages:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
-Download the dataset from Kaggle and place it in the data/ directory.
 
 Open and run the Jupyter notebooks in order to explore the full workflow.
 
