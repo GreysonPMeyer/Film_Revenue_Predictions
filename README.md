@@ -27,10 +27,10 @@ Summary results and visual comparisons are included in the Jupyter notebooks.
 
 ## Repository Structure
 
-├── data/                      # Contains the relevant datasets
-├── feature_engineering.ipynb        # Notebook for cleaning and preparing the data
-├── model_selection.ipynb  # Notebook for training and evaluating regression models
-└── README.md                  # Project overview
+* data/                      # Contains the relevant datasets
+* feature_engineering.ipynb  # Notebook for cleaning and preparing the data
+* model_selection.ipynb      # Notebook for training and evaluating regression models
+* README.md                  # Project overview
 
 
 ## Getting Started
