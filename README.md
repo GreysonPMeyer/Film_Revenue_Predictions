@@ -36,17 +36,11 @@ Summary results and visual comparisons are included in the Jupyter notebooks.
 ## Getting Started
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/GreysonPMeyer/Film_Revenue_Predictions.git
-cd film_revenue_prediction
+* git clone https://github.com/GreysonPMeyer/Film_Revenue_Predictions.git
+* cd film_revenue_prediction
+  
 Install required packages:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 Open and run the Jupyter notebooks in order to explore the full workflow.
 
