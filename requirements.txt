@@ -1,0 +1,10 @@
+pandas
+json
+collections
+scikit-learn
+re
+matplotlib
+seaborn
+numpy
+xgboost
+lightgbm
