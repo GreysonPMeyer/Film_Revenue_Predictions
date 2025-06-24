@@ -26,11 +26,7 @@ Evaluation: Comparing models using Root Mean Squared Error (RMSE), Mean Absolute
 Summary results and visual comparisons are included in the Jupyter notebooks.
 
 ## Repository Structure
-bash
-Copy
-Edit
-.
-.
+
 ├── data/                      # Contains the relevant datasets
 ├── feature_engineering.ipynb        # Notebook for cleaning and preparing the data
 ├── model_selection.ipynb  # Notebook for training and evaluating regression models
